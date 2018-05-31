@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ManufacturerXMLFile>
+<Manufacturer>
+	<Manufacturer_Name>ARISTOCRAT TECHNOLOGIES AUSTRALIA PTY LIMITED</Manufacturer_Name>
+	<Code>00</Code>
+	<Short_Name>ARI</Short_Name>
+	<Historic_Name>Aristocrat, Aritocrat Technologies Australia, Aristocrat Liesure Industries, ALI</Historic_Name>
+</Manufacturer>
+<Manufacturer>
+	<Manufacturer_Name>I G T (AUSTRALIA) PTY LTD</Manufacturer_Name>
+	<Code>01</Code>
+	<Short_Name>IGT</Short_Name>
+	<Historic_Name>IGT, I G T</Historic_Name>
+</Manufacturer>
+<Manufacturer>
+	<Manufacturer_Name>ARUZE GAMING AUSTRALIA PTY LTD</Manufacturer_Name>
+	<Code>05</Code>
+	<Short_Name>ARU</Short_Name>
+	<Historic_Name>Pacific Gaming, PAC, ARU</Historic_Name>
+</Manufacturer>
+<Manufacturer>
+	<Manufacturer_Name>AINSWORTH GAME TECHNOLOGY LIMITED</Manufacturer_Name>
+	<Code>12</Code>
+	<Short_Name>AGT</Short_Name>
+	<Historic_Name>AGT, Ainsworth Gaming Technologies</Historic_Name>
+</Manufacturer>
+<Manufacturer>
+	<Manufacturer_Name>KONAMI AUSTRALIA PTY LTD</Manufacturer_Name>
+	<Code>09</Code>
+	<Short_Name>KON</Short_Name>
+	<Historic_Name>Konami Australia, KON, Konami</Historic_Name>
+</Manufacturer>
+<Manufacturer>
+	<Manufacturer_Name>VOYAGER GAMING TECHNOLOGIES PTY LTD</Manufacturer_Name>
+	<Code>17</Code>
+	<Short_Name>VGT</Short_Name>
+	<Historic_Name>Queensland Gaming Systems, QGS, VGT</Historic_Name>
+</Manufacturer>
+<Manufacturer>
+	<Manufacturer_Name>SHFL ENTERTAINMENT (AUSTRALIASIA) PTY LIMITED</Manufacturer_Name>
+	<Code>07</Code>
+	<Short_Name>STA</Short_Name>
+	<Historic_Name>STARGAMES, VIDCO, SHUFFLE, SHUFFLE MASTER AUSTRALASIA PTY LIMITED</Historic_Name>
+</Manufacturer>
+<Manufacturer>
+	<Manufacturer_Name>B.G.I. AUSTRALIA PTY. LIMITED</Manufacturer_Name>
+	<Code>08</Code>
+	<Short_Name>BAL</Short_Name>
+	<Historic_Name>BALLY, BALLY GAMING, B.G.I. AUSTRALIA PTY. LIMITED</Historic_Name>
+</Manufacturer>
+</ManufacturerXMLFile>
